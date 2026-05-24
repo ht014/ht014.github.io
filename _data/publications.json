@@ -1,5 +1,14 @@
 [
   {
+    "tag": "C2R", "venue": "ICML", "venue_full": "ICML 2026", "year": "2026", "type": "conf",
+    "title": "Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?",
+    "authors": "Muquan Li, Yingyi Ma, Yihong Huang, Hang Gou, Ke Qin, Ming Li, Yuan-Fang Li, Tao He*",
+    "fig": "figs/c2r.png",
+    "links": [{"label": "Paper", "url": "https://arxiv.org/abs/2605.20606"},
+    {"label": "Oral~0.7%"}
+    ]
+  },
+  {
     "tag": "FlowSG", "venue": "CVPR", "venue_full": "CVPR 2026", "year": "2026", "type": "conf",
     "title": "Can We Build Scene Graphs, Not Classify Them? FlowSG: Progressive Image-Conditioned Scene Graph Generation with Flow Matching",
     "authors": "Xin Hu, Ke Qin, Wen Yin, Yuan-Fang Li, Ming Li, Tao He*",
