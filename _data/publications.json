@@ -23,15 +23,6 @@
     "links": [{"label": "Paper", "url": "https://arxiv.org/pdf/2602.24144"}]
   },
   {
-    "tag": "SciEducator", "venue": "CVPR", "venue_full": "CVPR 2026", "year": "2026", "type": "conf",
-    "title": "SciEducator: Scientific Video Understanding and Educating via Deming-Cycle Multi-Agent System",
-    "authors": "Zhiyu Xu, Weilong Yan, Yufei Shi, Xin Meng, Tao He, Huiping Zhuang, Ming Li, Hehe Fan",
-    "fig": "figs/scieducator.png",
-    "links": [
-      {"label": "Paper", "url": "https://arxiv.org/abs/2511.17943"}
-        ]
-  },
-  {
     "tag": "Anchor Drift", "venue": "WWW", "venue_full": "WWW 2026", "year": "2026", "type": "conf",
     "title": "Anchor Drift No More: Hierarchical Consistency-Guided Prompt Distillation for Incomplete Multimodal Learning",
     "authors": "Ruiting Dai, Zesen Cai, Lisi Mo, Guiduo Duan, Keren Shi, Tao He*",
@@ -50,8 +41,11 @@
     "title": "SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning",
     "authors": "Xin Hu, Ke Qin, Guiduo Duan, Ming Li, Yuan-Fang Li, Tao He*",
     "fig": "figs/spade.png",
-    "links": ["label": "Paper", "url":
-      {"https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_SPADE_Spatial-Aware_Denoising_Network_for_Open-vocabulary_Panoptic_Scene_Graph_Generation_ICCV_2025_paper.pdf"}]
+    "links": [
+      {
+        "label": "Paper", "url":
+      "https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_SPADE_Spatial-Aware_Denoising_Network_for_Open-vocabulary_Panoptic_Scene_Graph_Generation_ICCV_2025_paper.pdf"}
+    ]
   },
   {
     "tag": "Missing-Modality", "venue": "ICCV", "venue_full": "ICCV 2025", "year": "2025", "type": "conf",
