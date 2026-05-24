@@ -1,0 +1,109 @@
+[
+  {
+    "tag": "FlowSG", "venue": "CVPR", "venue_full": "CVPR 2026", "year": "2026", "type": "conf",
+    "title": "Can We Build Scene Graphs, Not Classify Them? FlowSG: Progressive Image-Conditioned Scene Graph Generation with Flow Matching",
+    "authors": "Xin Hu, Ke Qin, Wen Yin, Yuan-Fang Li, Ming Li, Tao He*",
+    "fig": "figs/flowsg.png",
+    "links": []
+  },
+  {
+    "tag": "Dataset Distillation", "venue": "CVPR", "venue_full": "CVPR 2026", "year": "2026", "type": "conf",
+    "title": "Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation",
+    "authors": "Muquan Li, Hang Gou, Yingyi Ma, Rongzheng Wang, Ke Qin, Tao He*",
+    "fig": "figs/dataset-distillation.png",
+    "links": []
+  },
+  {
+    "tag": "SciEducator", "venue": "CVPR", "venue_full": "CVPR 2026", "year": "2026", "type": "conf",
+    "title": "SciEducator: Scientific Video Understanding and Educating via Deming-Cycle Multi-Agent System",
+    "authors": "Zhiyu Xu, Weilong Yan, Yufei Shi, Xin Meng, Tao He, Huiping Zhuang, Ming Li, Hehe Fan",
+    "fig": "figs/scieducator.png",
+    "links": []
+  },
+  {
+    "tag": "Anchor Drift", "venue": "WWW", "venue_full": "WWW 2026", "year": "2026", "type": "conf",
+    "title": "Anchor Drift No More: Hierarchical Consistency-Guided Prompt Distillation for Incomplete Multimodal Learning",
+    "authors": "Ruiting Dai, Zesen Cai, Lisi Mo, Guiduo Duan, Keren Shi, Tao He*",
+    "fig": "figs/anchor-drift.png",
+    "links": []
+  },
+  {
+    "tag": "TiCAL", "venue": "AAAI", "venue_full": "AAAI 2026", "year": "2026", "type": "conf",
+    "title": "TiCAL: Typicality-Based Consistency-Aware Learning for Multimodal Emotion Recognition",
+    "authors": "Wen Yin, Shuai Zhan, Cheng Liu, Xin Hu, Guiduo Duan, Xianzhang Xie, Yuan-Fang Li, Tao He*",
+    "fig": "figs/tical.png",
+    "links": []
+  },
+  {
+    "tag": "SPADE", "venue": "ICCV", "venue_full": "ICCV 2025", "year": "2025", "type": "conf",
+    "title": "SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning",
+    "authors": "Xin Hu, Ke Qin, Guiduo Duan, Ming Li, Yuan-Fang Li, Tao He*",
+    "fig": "figs/spade.png",
+    "links": []
+  },
+  {
+    "tag": "Missing-Modality", "venue": "ICCV", "venue_full": "ICCV 2025", "year": "2025", "type": "conf",
+    "title": "Unbiased Missing-modality Multimodal Learning",
+    "authors": "Ruiting Dai, Chenxi Li, Yandong Yan, Lisi Mo, Ke Qin, Tao He*",
+    "fig": "figs/unbiased-missing-modality.png",
+    "links": []
+  },
+  {
+    "tag": "UCDVER", "venue": "CVPR", "venue_full": "CVPR 2025", "year": "2025", "type": "conf",
+    "title": "Knowledge-Aligned Counterfactual-Enhancement Diffusion Perception for Unsupervised Cross-Domain Visual Emotion Recognition",
+    "authors": "Wen Yin, Yong Wang, Guiduo Duan, Dongyang Zhang, Xin Hu, Yuan-Fang Li, Tao He*",
+    "fig": "figs/ucdver.png",
+    "links": [
+      { "label": "Code",  "url": "https://yinwen2019.github.io/ucdver/" },
+      { "label": "Paper", "url": "https://www.arxiv.org/abs/2505.19694" }
+    ]
+  },
+  {
+    "tag": "Unified SGG&ndash;HOI", "venue": "IEEE TIP", "venue_full": "IEEE TIP 2023", "year": "2023", "type": "jour",
+    "title": "Towards a Unified Transformer-based Framework for Scene Graph Generation and Human-object Interaction Detection",
+    "authors": "Tao He, Lianli Gao, Jingkuan Song, Yuan-Fang Li",
+    "fig": "figs/unified-sgg-hoi.png",
+    "links": []
+  },
+  {
+    "tag": "State-Aware CL", "venue": "IEEE TIP", "venue_full": "IEEE TIP 2022", "year": "2022", "type": "jour",
+    "title": "State-aware Compositional Learning towards Unbiased Training for Scene Graph Generation",
+    "authors": "Tao He, Lianli Gao, Jingkuan Song, Yuan-Fang Li",
+    "fig": "figs/state-aware-sgg.png",
+    "links": []
+  },
+  {
+    "tag": "Open-Vocab SGG", "venue": "ECCV", "venue_full": "ECCV 2022", "year": "2022", "type": "conf",
+    "title": "Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning",
+    "authors": "Tao He, Lianli Gao, Jingkuan Song, Yuan-Fang Li",
+    "fig": "figs/openvocab-sgg.png",
+    "links": []
+  },
+  {
+    "tag": "SG&ndash;HOI", "venue": "ICCV", "venue_full": "ICCV 2021", "year": "2021", "type": "conf",
+    "title": "Exploiting Scene Graphs for Human-Object Interaction Detection",
+    "authors": "Tao He, Lianli Gao, Jingkuan Song, Yuan-Fang Li",
+    "fig": "figs/sg-hoi.png",
+    "links": [
+      { "label": "Paper", "url": "https://arxiv.org/abs/2108.08584" }
+    ]
+  },
+  {
+    "tag": "Deep Quantization", "venue": "IEEE TNNLS", "venue_full": "IEEE TNNLS 2021", "year": "2021", "type": "jour",
+    "title": "Semisupervised Network Embedding With Differentiable Deep Quantization",
+    "authors": "Tao He, Lianli Gao, Jingkuan Song, Yuan-Fang Li",
+    "fig": "figs/deep-quantization.png",
+    "links": [
+      { "label": "Paper", "url": "https://arxiv.org/pdf/2108.09128" }
+    ]
+  },
+  {
+    "tag": "Binary GAN", "venue": "IJCV", "venue_full": "IJCV 2020", "year": "2020", "type": "jour",
+    "title": "Unified Binary Generative Adversarial Network for Image Retrieval and Compression",
+    "authors": "Jingkuan Song, Tao He, Lianli Gao, Alan Hanjalic, Heng Tao Shen",
+    "fig": "figs/binary-gan.png",
+    "links": [
+      { "label": "Paper", "url": "http://pure.tudelft.nl/ws/files/82393102/ijcv2020_binary.pdf" }
+    ]
+  }
+]
