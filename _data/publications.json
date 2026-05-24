@@ -79,7 +79,7 @@
     "authors": "Tao He, Lianli Gao, Jingkuan Song, Yuan-Fang Li",
     "fig": "figs/openvocab-sgg.png",
     "links": [
-     { "label": "Paper", "url": "https://arxiv.org/pdf/2208.08165"]}
+     { "label": "Paper", "url": "https://arxiv.org/pdf/2208.08165"}]
   },
   {
     "tag": "SG&ndash;HOI", "venue": "ICCV", "venue_full": "ICCV 2021", "year": "2021", "type": "conf",
