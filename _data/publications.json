@@ -4,49 +4,50 @@
     "title": "Can We Build Scene Graphs, Not Classify Them? FlowSG: Progressive Image-Conditioned Scene Graph Generation with Flow Matching",
     "authors": "Xin Hu, Ke Qin, Wen Yin, Yuan-Fang Li, Ming Li, Tao He*",
     "fig": "figs/flowsg.png",
-    "links": [https://arxiv.org/pdf/2604.18623]
+    "links": ["label": "Paper", "url": "https://arxiv.org/pdf/2604.18623"]
   },
   {
     "tag": "Dataset Distillation", "venue": "CVPR", "venue_full": "CVPR 2026", "year": "2026", "type": "conf",
     "title": "Fixed Anchors Are Not Enough: Dynamic Retrieval and Persistent Homology for Dataset Distillation",
     "authors": "Muquan Li, Hang Gou, Yingyi Ma, Rongzheng Wang, Ke Qin, Tao He*",
     "fig": "figs/dataset-distillation.png",
-    "links": [https://arxiv.org/pdf/2602.24144]
+    "links": ["label": "Paper", "url": "https://arxiv.org/pdf/2602.24144"]
   },
   {
     "tag": "SciEducator", "venue": "CVPR", "venue_full": "CVPR 2026", "year": "2026", "type": "conf",
     "title": "SciEducator: Scientific Video Understanding and Educating via Deming-Cycle Multi-Agent System",
     "authors": "Zhiyu Xu, Weilong Yan, Yufei Shi, Xin Meng, Tao He, Huiping Zhuang, Ming Li, Hehe Fan",
     "fig": "figs/scieducator.png",
-    "links": [https://arxiv.org/abs/2511.17943]
+    "links": ["label": "Paper", "url": "https://arxiv.org/abs/2511.17943"]
   },
   {
     "tag": "Anchor Drift", "venue": "WWW", "venue_full": "WWW 2026", "year": "2026", "type": "conf",
     "title": "Anchor Drift No More: Hierarchical Consistency-Guided Prompt Distillation for Incomplete Multimodal Learning",
     "authors": "Ruiting Dai, Zesen Cai, Lisi Mo, Guiduo Duan, Keren Shi, Tao He*",
     "fig": "figs/anchor-drift.png",
-    "links": [https://dl.acm.org/doi/pdf/10.1145/3774904.3792498]
+    "links": ["label": "Paper", "url": "https://dl.acm.org/doi/pdf/10.1145/3774904.3792498"]
   },
   {
     "tag": "TiCAL", "venue": "AAAI", "venue_full": "AAAI 2026", "year": "2026", "type": "conf",
     "title": "TiCAL: Typicality-Based Consistency-Aware Learning for Multimodal Emotion Recognition",
     "authors": "Wen Yin, Shuai Zhan, Cheng Liu, Xin Hu, Guiduo Duan, Xianzhang Xie, Yuan-Fang Li, Tao He*",
     "fig": "figs/tical.png",
-    "links": [https://ojs.aaai.org/index.php/AAAI/article/view/38854]
+    "links": ["label": "Paper", "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38854"]
   },
   {
     "tag": "SPADE", "venue": "ICCV", "venue_full": "ICCV 2025", "year": "2025", "type": "conf",
     "title": "SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning",
     "authors": "Xin Hu, Ke Qin, Guiduo Duan, Ming Li, Yuan-Fang Li, Tao He*",
     "fig": "figs/spade.png",
-    "links": [https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_SPADE_Spatial-Aware_Denoising_Network_for_Open-vocabulary_Panoptic_Scene_Graph_Generation_ICCV_2025_paper.pdf]
+    "links": ["label": "Paper", "url":
+      "https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_SPADE_Spatial-Aware_Denoising_Network_for_Open-vocabulary_Panoptic_Scene_Graph_Generation_ICCV_2025_paper.pdf"]
   },
   {
     "tag": "Missing-Modality", "venue": "ICCV", "venue_full": "ICCV 2025", "year": "2025", "type": "conf",
     "title": "Unbiased Missing-modality Multimodal Learning",
     "authors": "Ruiting Dai, Chenxi Li, Yandong Yan, Lisi Mo, Ke Qin, Tao He*",
     "fig": "figs/unbiased-missing-modality.png",
-    "links": [https://openaccess.thecvf.com/content/ICCV2025/papers/Dai_Unbiased_Missing-modality_Multimodal_Learning_ICCV_2025_paper.pdf]
+    "links": ["label": "Paper", "url": "https://openaccess.thecvf.com/content/ICCV2025/papers/Dai_Unbiased_Missing-modality_Multimodal_Learning_ICCV_2025_paper.pdf"]
   },
   {
     "tag": "UCDVER", "venue": "CVPR", "venue_full": "CVPR 2025", "year": "2025", "type": "conf",
@@ -63,21 +64,22 @@
     "title": "Towards a Unified Transformer-based Framework for Scene Graph Generation and Human-object Interaction Detection",
     "authors": "Tao He, Lianli Gao, Jingkuan Song, Yuan-Fang Li",
     "fig": "figs/unified-sgg-hoi.png",
-    "links": [https://ieeexplore.ieee.org/abstract/document/10315051/]
+    "links": ["label": "Paper", "url": "https://ieeexplore.ieee.org/abstract/document/10315051/"]
   },
   {
     "tag": "State-Aware CL", "venue": "IEEE TIP", "venue_full": "IEEE TIP 2022", "year": "2022", "type": "jour",
     "title": "State-aware Compositional Learning towards Unbiased Training for Scene Graph Generation",
     "authors": "Tao He, Lianli Gao, Jingkuan Song, Yuan-Fang Li",
     "fig": "figs/state-aware-sgg.png",
-    "links": [https://ieeexplore.ieee.org/abstract/document/9969654/]
+    "links": ["label": "Paper", "url": "https://ieeexplore.ieee.org/abstract/document/9969654/"]
   },
   {
     "tag": "Open-Vocab SGG", "venue": "ECCV", "venue_full": "ECCV 2022", "year": "2022", "type": "conf",
     "title": "Towards Open-vocabulary Scene Graph Generation with Prompt-based Finetuning",
     "authors": "Tao He, Lianli Gao, Jingkuan Song, Yuan-Fang Li",
     "fig": "figs/openvocab-sgg.png",
-    "links": [https://arxiv.org/pdf/2208.08165]
+    "links": [
+      "label": "Paper", "url": "https://arxiv.org/pdf/2208.08165"]
   },
   {
     "tag": "SG&ndash;HOI", "venue": "ICCV", "venue_full": "ICCV 2021", "year": "2021", "type": "conf",
