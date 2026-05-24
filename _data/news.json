@@ -55,32 +55,4 @@
     "type": "conf",
     "text": "paper accepted on <b>Visual Emotion Recognition</b>."
   },
-  {
-    "venue": "ICASSP",
-    "year": "2025",
-    "count": 2,
-    "type": "conf",
-    "text": "papers accepted on <b>Audio-to-Intent Recognition</b>."
-  },
-  {
-    "venue": "ACM MM",
-    "year": "2024",
-    "count": 2,
-    "type": "conf",
-    "text": "papers accepted on <b>Scene Graph Generation</b> &amp; Model Compression."
-  },
-  {
-    "venue": "IEEE TIP",
-    "year": "2023",
-    "count": 1,
-    "type": "jour",
-    "text": "paper accepted on <b>Scene Graph Generation</b>."
-  },
-  {
-    "venue": "IEEE TIP",
-    "year": "2022",
-    "count": 1,
-    "type": "jour",
-    "text": "paper accepted on <b>Unbiased Scene Graph Generation</b>."
-  }
 ]
