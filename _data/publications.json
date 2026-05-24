@@ -18,7 +18,9 @@
     "title": "SciEducator: Scientific Video Understanding and Educating via Deming-Cycle Multi-Agent System",
     "authors": "Zhiyu Xu, Weilong Yan, Yufei Shi, Xin Meng, Tao He, Huiping Zhuang, Ming Li, Hehe Fan",
     "fig": "figs/scieducator.png",
-    "links": ["label": "Paper", "url": "https://arxiv.org/abs/2511.17943"]
+    "links": [
+      {"label": "Paper", "url": "https://arxiv.org/abs/2511.17943"}
+        ]
   },
   {
     "tag": "Anchor Drift", "venue": "WWW", "venue_full": "WWW 2026", "year": "2026", "type": "conf",
