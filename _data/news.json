@@ -1,0 +1,86 @@
+[
+  {
+    "venue": "ICML",
+    "year": "2026",
+    "count": 3,
+    "type": "conf",
+    "text": "papers accepted on <b>Dataset Distillation</b> &amp; Large Multimodal Models."
+  },
+  {
+    "venue": "IEEE TMM",
+    "year": "",
+    "count": 1,
+    "type": "jour",
+    "text": "paper accepted on <b>Human&ndash;Object Interaction Detection</b>."
+  },
+  {
+    "venue": "CVPR",
+    "year": "2026",
+    "count": 3,
+    "type": "conf",
+    "text": "papers accepted on <b>Multimodal Learning</b>."
+  },
+  {
+    "venue": "Pattern Recog.",
+    "year": "2026",
+    "count": 1,
+    "type": "jour",
+    "text": "paper accepted on <b>Lifelong Scene Graph Generation</b>."
+  },
+  {
+    "venue": "WWW",
+    "year": "2026",
+    "count": 1,
+    "type": "conf",
+    "text": "paper accepted on <b>Incomplete Multimodal Learning</b>."
+  },
+  {
+    "venue": "AAAI",
+    "year": "2026",
+    "count": 1,
+    "type": "conf",
+    "text": "paper accepted on <b>Visual Emotion Recognition</b>."
+  },
+  {
+    "venue": "ICCV",
+    "year": "2025",
+    "count": 2,
+    "type": "conf",
+    "text": "papers accepted on <b>Panoptic SGG</b> &amp; Incomplete Multimodal Learning."
+  },
+  {
+    "venue": "CVPR",
+    "year": "2025",
+    "count": 1,
+    "type": "conf",
+    "text": "paper accepted on <b>Visual Emotion Recognition</b>."
+  },
+  {
+    "venue": "ICASSP",
+    "year": "2025",
+    "count": 2,
+    "type": "conf",
+    "text": "papers accepted on <b>Audio-to-Intent Recognition</b>."
+  },
+  {
+    "venue": "ACM MM",
+    "year": "2024",
+    "count": 2,
+    "type": "conf",
+    "text": "papers accepted on <b>Scene Graph Generation</b> &amp; Model Compression."
+  },
+  {
+    "venue": "IEEE TIP",
+    "year": "2023",
+    "count": 1,
+    "type": "jour",
+    "text": "paper accepted on <b>Scene Graph Generation</b>."
+  },
+  {
+    "venue": "IEEE TIP",
+    "year": "2022",
+    "count": 1,
+    "type": "jour",
+    "text": "paper accepted on <b>Unbiased Scene Graph Generation</b>."
+  }
+]
