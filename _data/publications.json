@@ -34,7 +34,9 @@
     "title": "TiCAL: Typicality-Based Consistency-Aware Learning for Multimodal Emotion Recognition",
     "authors": "Wen Yin, Shuai Zhan, Cheng Liu, Xin Hu, Guiduo Duan, Xianzhang Xie, Yuan-Fang Li, Tao He*",
     "fig": "figs/tical.png",
-    "links": [{"label": "Paper", "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38854"}]
+    "links": [{"label": "Paper", "url": "https://ojs.aaai.org/index.php/AAAI/article/view/38854"},
+    {"label": "Code", "url": "https://github.com/yinwen2019/TiCAL"}
+    ]
   },
   {
     "tag": "SPADE", "venue": "ICCV", "venue_full": "ICCV 2025", "year": "2025", "type": "conf",
@@ -54,7 +56,9 @@
     "title": "Unbiased Missing-modality Multimodal Learning",
     "authors": "Ruiting Dai, Chenxi Li, Yandong Yan, Lisi Mo, Ke Qin, Tao He*",
     "fig": "figs/unbiased-missing-modality.png",
-    "links": [{"label": "Paper", "url": "https://openaccess.thecvf.com/content/ICCV2025/papers/Dai_Unbiased_Missing-modality_Multimodal_Learning_ICCV_2025_paper.pdf"}]
+    "links": [{"label": "Paper", "url": "https://openaccess.thecvf.com/content/ICCV2025/papers/Dai_Unbiased_Missing-modality_Multimodal_Learning_ICCV_2025_paper.pdf"},
+    {"label": "Code", "url": "https://crystal-punk.github.io"}
+    ]
   },
   {
     "tag": "UCDVER", "venue": "CVPR", "venue_full": "CVPR 2025", "year": "2025", "type": "conf",
@@ -85,7 +89,9 @@
     "authors": "Tao He, Lianli Gao, Jingkuan Song, Yuan-Fang Li",
     "fig": "figs/openvocab-sgg.png",
     "links": [
-     { "label": "Paper", "url": "https://arxiv.org/pdf/2208.08165"}]
+     { "label": "Paper", "url": "https://arxiv.org/pdf/2208.08165"},
+      {"label": "Code", "url": "https://drive.google.com/file/d/1U-p2bgTUPbQdoxauf8LECBfwlpxLJi8T/view?usp=drive_link"}
+    ]
   },
   {
     "tag": "SG&ndash;HOI", "venue": "ICCV", "venue_full": "ICCV 2021", "year": "2021", "type": "conf",
