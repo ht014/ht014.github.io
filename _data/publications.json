@@ -62,8 +62,7 @@
     "authors": "Wen Yin, Yong Wang, Guiduo Duan, Dongyang Zhang, Xin Hu, Yuan-Fang Li, Tao He*",
     "fig": "figs/ucdver.png",
     "links": [
-      { "label": "Code",  "url": "https://yinwen2019.github.io/ucdver/" },
-      { "label": "Paper", "url": "https://www.arxiv.org/abs/2505.19694" }
+      { "label": "Paper", "url": "https://www.arxiv.org/abs/2505.19694" }, { "label": "Code",  "url": "https://yinwen2019.github.io/ucdver/" }
     ]
   },
   {
