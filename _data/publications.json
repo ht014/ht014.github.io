@@ -45,7 +45,7 @@
       {
         "label": "Paper", "url":
       "https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_SPADE_Spatial-Aware_Denoising_Network_for_Open-vocabulary_Panoptic_Scene_Graph_Generation_ICCV_2025_paper.pdf"
-      }
+      },
       {"label": "Code", "url": "https://github.com/8078qwe/SPADE plus"}
     ]
   },
