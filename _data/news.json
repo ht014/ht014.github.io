@@ -1,5 +1,12 @@
 [
   {
+    "venue": "ACMMM",
+    "year": "2026",
+    "count": 4,
+    "type": "conf",
+    "text": "papers accepted on <b>Visual Relation Detection</b> &amp; Multimodal Reasoning."
+  },
+  {
     "venue": "ICML",
     "year": "2026",
     "count": 3,
