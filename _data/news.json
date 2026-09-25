@@ -1,5 +1,12 @@
 [
   {
+    "venue": "NeurIPS",
+    "year": "2026",
+    "count": 2,
+    "type": "conf",
+    "text": "papers accepted on <b>LLM Reasoning</b> &amp; Incomplete Multimodal Reasoning."
+  },
+  {
     "venue": "ACMMM",
     "year": "2026",
     "count": 4,
