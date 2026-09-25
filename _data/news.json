@@ -54,12 +54,5 @@
     "count": 2,
     "type": "conf",
     "text": "papers accepted on <b>Panoptic SGG</b> &amp; Incomplete Multimodal Learning."
-  },
-  {
-    "venue": "CVPR",
-    "year": "2025",
-    "count": 1,
-    "type": "conf",
-    "text": "paper accepted on <b>Visual Emotion Recognition</b>."
-  },
+  }
 ]
