@@ -1,5 +1,13 @@
 [
   {
+    "tag": "BRACE", "venue": "NeurIPS", "venue_full": "NeurIPS 2026", "year": "2026", "type": "conf",
+    "title": "BRACE: Bipolar Reference-Aware Calibration and Estimation for Incomplete Multimodal Learning",
+    "authors": "Ruiting Dai, Zesen Cai, XiaoYu Zhao, huang yiting, Lisi Mo, Ming Li, Tao He*",
+    "fig": "figs/BRACE.png",
+    "links": [{"label": "Paper", "url": "null"},
+    ]
+  },
+  {
     "tag": "C2R", "venue": "ICML", "venue_full": "ICML 2026", "year": "2026", "type": "conf",
     "title": "Mind Your Margin and Boundary: Are Your Distilled Datasets Truly Robust?",
     "authors": "Muquan Li, Yingyi Ma, Yihong Huang, Hang Gou, Ke Qin, Ming Li, Yuan-Fang Li, Tao He*",
@@ -92,16 +100,6 @@
      { "label": "Paper", "url": "https://arxiv.org/pdf/2208.08165"},
       {"label": "Code", "url": "https://drive.google.com/file/d/1U-p2bgTUPbQdoxauf8LECBfwlpxLJi8T/view?usp=drive_link"}
     ]
-  },
-  {
-    "tag": "SG&ndash;HOI", "venue": "ICCV", "venue_full": "ICCV 2021", "year": "2021", "type": "conf",
-    "title": "Exploiting Scene Graphs for Human-Object Interaction Detection",
-    "authors": "Tao He, Lianli Gao, Jingkuan Song, Yuan-Fang Li",
-    "fig": "figs/sg-hoi.png",
-    "links": [
-      { "label": "Paper", "url": "https://arxiv.org/abs/2108.08584" }
-    ]
-  },
- 
+  }
 
 ]
