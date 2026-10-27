@@ -14,7 +14,7 @@
     "authors": "Muquan Li, Yingyi Ma, Yihong Huang, Hang Gou, Ke Qin, Ming Li, Yuan-Fang Li, Tao He*",
     "fig": "figs/c2r.png",
     "links": [{"label": "Paper", "url": "https://arxiv.org/abs/2605.20606"},
-    {"label": "Oral~0.7%"}
+    {"label": "Oral~0.7%"}, {"label": "Code", "url": "https://github.com/aether-hang/retaplus"}, 
     ]
   },
   {
