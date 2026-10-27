@@ -2,9 +2,10 @@
   {
     "tag": "BRACE", "venue": "NeurIPS", "venue_full": "NeurIPS 2026", "year": "2026", "type": "conf",
     "title": "BRACE: Bipolar Reference-Aware Calibration and Estimation for Incomplete Multimodal Learning",
-    "authors": "Ruiting Dai, Zesen Cai, XiaoYu Zhao, huang yiting, Lisi Mo, Ming Li, Tao He*",
+    "authors": "Ruiting Dai, Zesen Cai, XiaoYu Zhao, Yiting Huang, Lisi Mo, Ming Li, Tao He*",
     "fig": "figs/BRACE.png",
     "links": [{"label": "Paper", "url": "null"},
+       {"label": "Code", "url": "https://github.com/Js183/BRACE"},
     ]
   },
   {
